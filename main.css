@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav-link {
+    border-left: 1px solid orange;
+    border-bottom: 1px solid orange;
+}
+
+.nav-link:hover {
+    border-right: 1px solid orange;
+    border-top: 1px solid orange;
+    border-left: 0;
+    border-bottom: 0;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 700px;
+}
