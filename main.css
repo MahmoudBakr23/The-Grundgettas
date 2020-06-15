@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .nav-link {
     border-left: 1px solid orange;
     border-bottom: 1px solid orange;
@@ -17,4 +22,21 @@
 .carousel-item img {
     width: 100%;
     height: 700px;
+}
+
+.microverse {
+    background-color: lightgray;
+}
+
+.microverse p img {
+    width: 150px;
+    height: 30px;
+}
+
+.microverse {
+    justify-content: space-between;
+}
+
+.microverse p {
+    margin: 0 5%;
 }
