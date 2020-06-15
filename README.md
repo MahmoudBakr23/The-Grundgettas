@@ -19,9 +19,12 @@ The Grundgettas Team's Landing Page
 **For team members only!**
 
 **Clone this Github repository.**
+
 **Create a branch with your name.**
+
 **Make changes and push on your own branch only!**
-**Only merge when approved**
+
+**Only merge when approved!**
 
 **The Live Demo Link is required to be up-to-date after merging the new changes**
 
