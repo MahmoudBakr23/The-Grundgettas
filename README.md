@@ -16,15 +16,15 @@ The Grundgettas Team's Landing Page
 
 ## Getting Started
 
-**For team members only!**
+**-For team members only!**
 
-**Clone this Github repository.**
+**1) Clone this Github repository.**
 
-**Create a branch with your name.**
+**2) Create a branch with your name.**
 
-**Make changes and push on your own branch only!**
+**3) Make changes and push on your own branch only!**
 
-**Only merge when approved!**
+**4) Only merge when approved!**
 
 **The Live Demo Link is required to be up-to-date after merging the new changes**
 
