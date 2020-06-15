@@ -24,9 +24,9 @@ The Grundgettas Team's Landing Page
 
 **3) Make changes and push on your own branch only!**
 
-**4) Only merge when approved!**
+**4) Only merge when approved! (by the team)**
 
-**The Live Demo Link is required to be up-to-date after merging the new changes**
+**-The Live Demo Link is required to be up-to-date after merging the new changes.**
 
 ## Authors
 
